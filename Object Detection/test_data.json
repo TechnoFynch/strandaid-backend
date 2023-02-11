@@ -1,0 +1,23 @@
+{
+    "camera_details": {
+        "res": "1920x1080",
+        "url": "",
+        "vq": "1080p"
+    },
+    "connection_status": true,
+    "details": {
+        "battery": 3200,
+        "batteryPerc": 45,
+        "flyingTimeLeft": 20,
+        "range": 180,
+        "speed": 3200,
+        "title": "DJI Mavic 3"
+    },
+    "drone_id": 7,
+    "drone_name": "Drone 1",
+    "flight": {
+        "temperature": "25",
+        "time": 35
+    },
+    "storage": 5
+}

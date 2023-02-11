@@ -1,0 +1,5 @@
+flask==2.2.2
+firebase_admin==6.0.0
+Flask-CORS==3.0.10
+azure-storage-blob
+cloudinary
