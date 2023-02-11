@@ -1,4 +1,4 @@
-# strandaid-backend
+# Strandaid Backend
 The project is aimed at developing a backend for the StrandAid platform. The repository contains the source code for the final version of the StrandAid API.
 
 The StrandAid platform is a solution designed to help people in need of assistance, particularly in emergency situations and disaster struck areas. The backend of the platform is built using the Python (3.11.0) runtime environment, and it leverages the Flask framework to provide a RESTful API that can be used to interact with the platform's database, which as of now has been built by pooling the Firebase Firestore, the Microsoft Azure Blob Storage and the Cloudinary Platform.
